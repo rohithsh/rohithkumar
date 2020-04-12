@@ -95,9 +95,9 @@ analytics:
 author:
   name             : "Rohith Kumar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hello. I am Rohith, an engineer with a Bachelors Degree is Computer Science."
+  bio              : "Hello.. Welcome to my website!!"
   location         : "Coimbatore, Tamil Nadu, India"
-  email            : "rohithkumar24998@gmail.com"
+  email            : rohithkumar24998@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
