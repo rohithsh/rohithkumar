@@ -6,7 +6,11 @@
 #displaypicture {
   display: block;
   max-width:200px;
+  top: 30%;
+  right: 60%;
   max-height:200px;
+  position: absolute;
   width: auto;
   height: auto;
+  float: left;
 }
