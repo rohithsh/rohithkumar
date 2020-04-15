@@ -16,7 +16,7 @@
     float: left;
   }
   .footer {
-    position: fixed;
+    position: absolute;
     font-size: 8px;
     left: 0;
     bottom: 0;
