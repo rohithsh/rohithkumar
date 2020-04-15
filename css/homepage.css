@@ -1,9 +1,4 @@
 @media only screen and (max-width: 768px) {
-  .linkblock{
-    top: 30%;
-    right:5px;
-    position:absolute;
-  }
   #displaypicture {
     display: block;
     max-width:150px;
@@ -22,12 +17,14 @@
     bottom: 0;
     text-align: left;
   }
+
   h2{
     font-size: 12px;
   }
   .linkblock{
-    padding:30px;
-    margin-top:1.5in;
+    top: 28%;
+    right:7px;
+    position:absolute;
   }
 }
 
