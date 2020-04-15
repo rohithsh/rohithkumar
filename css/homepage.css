@@ -39,3 +39,11 @@
   padding:20px;
   margin-top:1in;
 }
+.footer {
+  position: fixed;
+  font-size: 8px;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
