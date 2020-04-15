@@ -1,7 +1,16 @@
-.righttopcorner{
-   position:absolute;
-   top:0;
-   right:0;
+@media only screen and (max-width: 768px) {
+  .linkblock{
+    top: 30%;
+    right:5%;
+    position:absolute;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .linkblock{
+    top: 30%;
+    right:45%;
+    position:absolute;
+  }
 }
 #displaypicture {
   display: block;
@@ -13,4 +22,8 @@
   width: auto;
   height: auto;
   float: left;
+}
+#mainblock{
+  padding:20px;
+  margin-top:1in;
 }
