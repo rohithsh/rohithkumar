@@ -6,10 +6,10 @@
   }
   #displaypicture {
     display: block;
-    max-width:200px;
+    max-width:150px;
     top: 30%;
-    right: 50%;
-    max-height:200px;
+    right: 55%;
+    max-height:150px;
     position: absolute;
     width: auto;
     height: auto;
@@ -22,7 +22,15 @@
     bottom: 0;
     text-align: left;
   }
+  h2{
+    font-size: 12px;
+  }
+  .linkblock{
+    padding:30px;
+    margin-top:1.5in;
+  }
 }
+
 @media only screen and (min-width: 768px) {
   .linkblock{
     top: 30%;
@@ -40,11 +48,10 @@
     height: auto;
     float: left;
   }
-}
-
-#mainblock{
-  padding:20px;
-  margin-top:1in;
+  #mainblock{
+    padding:20px;
+    margin-top:1in;
+  }
 }
 .footer {
   position: fixed;

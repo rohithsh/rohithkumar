@@ -1,3 +1,28 @@
+@media only screen and (max-width: 768px) {
+
+  .responsive {
+    padding: 0 6px;
+    float: left;
+    width: 100%;
+    height: auto;
+  }
+  .textblock{
+    padding:20px;
+    margin-top:1in;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .responsive {
+    padding: 6px;
+    float: left;
+    width: 24%;
+    height: auto;
+  }
+  .textblock{
+    padding:20px;
+    margin-top:0.5in;
+  }
+}
 div.gallery {
   width: 100%;
   border: 1px solid #ccc;
@@ -19,13 +44,6 @@ div.desc {
 
 * {
   box-sizing: border-box;
-}
-
-.responsive {
-  padding: 0 6px;
-  float: left;
-  width: 24%;
-  height: auto;
 }
 
 .clearfix:after {
